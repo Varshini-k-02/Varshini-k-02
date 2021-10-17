@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 💬 Ask me about **HTML,CSS,JS,Python-Django,SQL**
+- 💬 Ask me about **HTML,CSS,JS,Python-Django,SQL,Cloud-GCP**
 
 - 📫 How to reach me **varshinikarthik002@gmail.com**
 
