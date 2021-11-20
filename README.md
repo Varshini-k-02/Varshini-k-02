@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **HTML,CSS,JS,Python-Django,SQL,Cloud-GCP**
 
-- 📫 How to reach me **varshinikarthik002@gmail.com**
+- 📫 Reach me on **varshinikarthik002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
