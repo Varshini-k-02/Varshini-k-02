@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 Varshini here!</h1>
-<h3 align="center">Budding full stack web developer and a DevOps enthusiast</h3>
+<h3 align="center">Sophomore, Budding full stack web developer and a DevOps enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varshini-k-02&label=Profile%20views&color=0e75b6&style=flat" alt="varshini-k-02" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on my personal project!
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 Learning **ReactJS**
 
 - 💬 Ask me about **HTML,CSS,JS,Python-Django,SQL,Cloud-GCP**
 
