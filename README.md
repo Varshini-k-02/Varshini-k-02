@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varshini-k-02" alt="varshini-k-02" /></a> </p>
 
-- ✨ Alpha - MLSA, Front-end Intern @LazyCrew, Meentee @CLIMB Mentorship program
+- ✨ Alpha - MLSA, Front-end Intern @LazyCrew, Mentee @CLIMB Mentorship program
 
 - 🔭 I’m currently making my hands dirty with DSA
 
