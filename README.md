@@ -22,7 +22,7 @@
 
 [![Varshini's github activity graph](https://activity-graph.herokuapp.com/graph?username=varshini-k-02&theme=dark&bg_color=white&hide_border=true&area=true)](https://git.io/varshini-k-02)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=varshini-k-02&theme=dark&show_icons=true&locale=en&layout=compact" alt="varshini-k-02" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=varshini-k-02&theme=radical&show_icons=true&locale=en&layout=compact" alt="varshini-k-02" /></p>
 <br>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varshini-k-02&theme=dark&show_icons=true&locale=en" alt="varshini-k-02" /></p>
