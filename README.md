@@ -2,17 +2,17 @@
 <h3 align="center">Aspiring Software Engineer who is looking for opportunities for contributing and learning new technologies!</h3>
 
 
-- ✨ Alpha - MLSA, Front-end Intern @LazyCrew, Mentee @CLIMB Mentorship program
+✨ Alpha - MLSA, Front-end Intern @LazyCrew, Mentee @CLIMB Mentorship program
 
-- 🔭 I’m currently making my hands dirty with DSA
+🔭 I’m currently making my hands dirty with DSA
 
-- 🌱 Learning Algorithms for better problem solving
+🌱 Learning Algorithms for better problem solving
 
-- 💬 Ask me about **HTML, CSS, JS, Python-Django, SQL, Cloud-GCP and Azure**
+💬 Ask me about **HTML, CSS, JS, Python-Django, SQL, Cloud-GCP and Azure**
 
-- 📫 Reach me on **varshinikarthik002@gmail.com**
+📫 Reach me on **varshinikarthik002@gmail.com**
 
-- 🌟 I write technical blogs <a href="https://medium.com/@varshini_k" target="_blank">here</a>
+🌟 I write technical blogs <a href="https://medium.com/@varshini_k" target="_blank">here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
