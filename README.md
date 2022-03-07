@@ -22,7 +22,7 @@
 
 <p align = "center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varshini-k-02&theme=dark" alt="varshini-k-02" /></a> </p>
 
-[![Varshini's github activity graph](https://activity-graph.herokuapp.com/graph?username=varshini-k-02&theme=dark&bg_color=white&hide_border=true&area=true)](https://git.io/varshini-k-02)
+[![Varshini's github activity graph](https://activity-graph.herokuapp.com/graph?username=varshini-k-02&theme=radical&bg_color=white&hide_border=true&area=true)](https://git.io/varshini-k-02)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=varshini-k-02&theme=radical&show_icons=true&locale=en&layout=compact" alt="varshini-k-02" /></p>
 <br>
