@@ -3,6 +3,7 @@
 
 
 ✨ Alpha - MLSA, Front-end Intern @LazyCrew, OSS mentee @Codess.Cafe
+
 🔭 I’m currently making my hands dirty with DSA
 
 🌱 Learning Algorithms for better problem solving
