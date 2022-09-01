@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Engineer who is looking for opportunities for contributing and learning new technologies!</h3>
 
 
-✨ Alpha - MLSA, Front-end Intern @LazyCrew, OSS mentee @Codess.Cafe
+✨Beta - MLSA, OSS mentee @Codess.Cafe
 
 🔭 I’m currently making my hands dirty with DSA
 
