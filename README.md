@@ -4,7 +4,7 @@
 
 ✨Beta - MLSA, OSS mentee @Codess.Cafe
 
-🔭 I’m currently making my hands dirty with DSA
+🔭 I’m currently making my hands dirty with DSA and JS
 
 🌱 Learning Algorithms for better problem solving
 
