@@ -14,6 +14,8 @@
 
 🌟 I write technical blogs <a href="https://medium.com/@varshini_k" target="_blank">here</a>
 
+⚡ I just dropped a tutorial on Git and GitHub, <a href="https://youtu.be/Gd2gl1waSHc" target="_blank"> Click here </a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/varshini-k-2507251b9/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varshini k" height="30" width="40" /></a>
