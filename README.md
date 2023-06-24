@@ -8,7 +8,7 @@
 
 🌱 Learning Algorithms for better problem solving
 
-💬 Ask me about **HTML, CSS, JS, Python-Django, SQL, Cloud-GCP and Azure**
+💬 Ask me about **React, Angular, Django, Node**
 
 📫 Reach me on **varshinikarthik002@gmail.com**
 
