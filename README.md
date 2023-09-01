@@ -8,7 +8,7 @@
 
 🌱 Learning Algorithms for better problem solving
 
-💬 Ask me about **React, Angular, Django, Node**
+💬 Ask me about **Angular, Spring Boot, Django**
 
 📫 Reach me on **varshinikarthik002@gmail.com**
 
