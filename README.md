@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Engineer who is looking for opportunities for contributing and learning new technologies!</h3>
 
 
-Full Stack Dev @Worldline
+🚀 Full Stack Dev @**Worldline**
 
 🌱 Learning Algorithms for better problem solving
 
