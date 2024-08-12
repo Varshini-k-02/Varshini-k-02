@@ -2,13 +2,11 @@
 <h3 align="center">Aspiring Software Engineer who is looking for opportunities for contributing and learning new technologies!</h3>
 
 
-✨Beta - MLSA, OSS mentee @Codess.Cafe
-
-🔭 I’m currently making my hands dirty with DSA and JS
+Full Stack Dev @Worldline
 
 🌱 Learning Algorithms for better problem solving
 
-💬 Ask me about **Angular, Spring Boot, Django**
+💬 Ask me about **Angular, Spring Boot, Docker**
 
 📫 Reach me on **varshinikarthik002@gmail.com**
 
